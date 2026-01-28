@@ -1,1 +1,4 @@
-[View Project](https://github.com/TrencsanszkyPatrik/Quickbite-Backend)
+[BACKEND](https://github.com/TrencsanszkyPatrik/Quickbite-Backend)
+[FRONTEND](https://github.com/TrencsanszkyPatrik/Quickbite_Frontend)
+
+
